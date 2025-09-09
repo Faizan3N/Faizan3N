@@ -3,7 +3,7 @@
 <div align="center">
   <h3 align="center">Frontend Developer focused on building scalable and user-friendly web interfaces</h3>
 </div>
-<br><br>
+
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
