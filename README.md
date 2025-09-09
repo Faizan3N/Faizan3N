@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
-<h3 align="center">                      Frontend Developer</h3>
 
- 
+<div align="center">
+  <h3>Frontend Developer</h3>
+</div>
 
+<br><br>
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
