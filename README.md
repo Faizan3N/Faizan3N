@@ -3,18 +3,19 @@
 <div align="center">
   <h3 align="center">Frontend Developer focused on building scalable and user-friendly web interfaces</h3>
 </div>
-<br/>
+
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
 
 - 🤝 I’m looking for help with **Advanced Next.js Projects**
 
-- 💬 Ask me about **React.js, Tailwind CSS, Redux,**
+- 💬 Ask me about **React.js, Tailwind CSS, Redux**
 
 - 📫 How to reach me **Faizanali3n@gmail.com**
 
 - ⚡ Fun fact **I’m great at finding accurate solutions and resources online.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
