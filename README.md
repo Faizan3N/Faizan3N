@@ -3,7 +3,6 @@
 <div align="center">
   <h3>Frontend Developer</h3>
 </div>
-
 <br><br>
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
 
