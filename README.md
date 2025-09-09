@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 
 <div align="center">
-  <h3>Frontend Developer</h3>
+  <h3 align="center">Frontend Developer focused on building scalable and user-friendly web interfaces</h3>
 </div>
 <br><br>
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
 
 - 🤝 I’m looking for help with **Advanced Next.js Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Faizan3N](https://github.com/Faizan3N)
 
 - 💬 Ask me about **React.js, Tailwind CSS, Redux,**
 
