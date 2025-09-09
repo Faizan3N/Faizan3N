@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">Frontend Developer aiming to deliver responsive, scalable, and user-friendly interfaces.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan3n" alt="faizan3n" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
