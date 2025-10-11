@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan3n" alt="faizan3n" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Redux Toolkit, and Advanced JavaScript**
+- 🌱 I’m currently learning **Python, Django, AI & ML**
 
 - 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
 
 - 🤝 I’m looking for help with **Advanced Next.js Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Faizan3N](https://github.com/Faizan3N)
 
 - 💬 Ask me about **React.js, Tailwind CSS, Redux,**
 
