@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">Frontend Developer aiming to deliver responsive, scalable, and user-friendly interfaces.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan3n" alt="faizan3n" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/176225761?s=400&u=b0a7f0769fe8c1fbf9fd1715a950154449a339c5&v=4"><img src="https://github-profile-trophy.vercel.app/?username=faizan3n" alt="faizan3n" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Django, AI & ML**
 
