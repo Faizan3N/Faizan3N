@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  Hi 👋, I'm Faizan Ali
 🔭 I’m currently working on Frontend & MERN Stack Projects<br>👯 I’m looking to collaborate on React / Frontend / Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Architecture <br>🌱 I’m currently learning Backend Development (Python, Django)<br>💬 Ask me about React.js, Tailwind CSS, JavaScript, MERN Stack<br>⚡ Fun fact Strong at debugging and finding efficient solutions<br>
 
 
