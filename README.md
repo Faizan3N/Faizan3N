@@ -12,8 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Faizan3N&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan3N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Faizan3N&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Faizan3N&limit=5&theme=dark&combine_all_yearly_contributions=true)
