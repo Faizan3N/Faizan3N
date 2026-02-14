@@ -1,5 +1,5 @@
 # 💫  Hi 👋, I'm Faizan Ali
-🔭 I’m currently developing modern scalable Frontend Web Applications<br>👯 I’m looking to collaborate on ReactJs / Frontend / Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Architecture <br>🌱 I’m currently learning Backend Development (Python, Django)<br>💬 Ask me about React.js, Tailwind CSS, JavaScript, MERN Stack<br>⚡Strong adaptability to new tools and technologies<br>
+🔭 I’m currently developing modern, scalable Frontend Web Applications<br>👯 I’m looking to collaborate on ReactJs / Frontend / Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Architecture <br>🌱 I’m currently learning Backend Development (Python, Django)<br>💬 Ask me about React.js, Tailwind CSS, JavaScript, MERN Stack<br>⚡Strong adaptability to new tools and technologies<br>
 
 
 ## 🌐 Socials:
