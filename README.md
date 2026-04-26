@@ -1,5 +1,5 @@
 # 💫  Hi 👋, I'm Faizan Ali
-🚀 I'm currently building modern, scalable **Full Stack Web Applications** using the **MERN Stack**<br>🤝 I'm looking to collaborate on **React.js / Node.js / Full Stack / Open Source Projects**<br>📚  I'm looking for help with **Advanced Backend Architecture & System Design** <br>🌱I'm currently learning and expanding my skills in **Backend Development)** <br>💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Tailwind CSS**<br>⚡Strong adaptability to new tools and technologies<br>
+🚀 I'm currently building modern, scalable **Full Stack Web Applications** using the **MERN Stack**<br>🤝 I'm looking to collaborate on **React.js / Node.js / Full Stack / Open Source Projects**<br>📚  I'm looking for help with **Advanced Backend Architecture & System Design** <br>🌱I'm currently learning and expanding my skills in **Backend Development** <br>💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Tailwind CSS**<br>⚡Strong adaptability to new tools and technologies<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizanali3n/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Faizanali3n@gmail.com) 
